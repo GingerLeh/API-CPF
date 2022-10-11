@@ -1,7 +1,7 @@
 version: "3"
 
 services:
-  api-sentimentos:
+  api-mudaCPF:
     container_name: api-sentimentos
     image: api-sentimentos
     restart: unless-stopped

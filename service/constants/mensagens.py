@@ -5,6 +5,7 @@ INICIO_SERVICO = "Iniciando o servico..."
 FIM_SERVICO = "Fim do tratamento."
 
 # Error Business #
+ERROR_CPF= "CPF inválido"
 ERROR_GENERIC = "Ocorreu um erro generico"
 ERROR_NOT_TREATMENT = 'Ocorreu algo que não esperavamos \
                         e para seu conforto estaremos olhando.'
